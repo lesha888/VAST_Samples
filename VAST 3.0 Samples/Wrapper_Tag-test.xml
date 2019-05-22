@@ -7,6 +7,9 @@
             <Error>http://example.com/error</Error>
 
             <Impression>http://example.com/track/impression?wrapper</Impression>
+            <Impression>http://blocked.local/track/impression?wrapper</Impression>
+            <Impression>http://block.example.com/track/impression?wrapper</Impression>
+
             <Creatives>
                 <Creative id="5480" sequence="1">
                     <CompanionAds>
